@@ -5,11 +5,11 @@
  *
  * Description: A C program that prints with puts function
  *
- * Return : Always 0 (Success)
+ * Return: 0 if successed. 1 otherwise
 */
 
 int main(void)
 {
-	puts("\"Programming is like building a multilingual puzzle\n");
+	puts("\"Programming is like building a multilingual puzzle");
 	return (0);
 }
