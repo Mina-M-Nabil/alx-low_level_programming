@@ -1,0 +1,20 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <time.h>
+
+
+
+/**
+ * main - Entry point
+ *
+ * Description: A C program that assign a random value
+ *        to variable n and prints whether it is
+ *           end is greater than 5 , less than 6
+ *          and not 0 or is 0
+ *
+ * Return: Always 0 (Success)
+*/
+
+
+
+
