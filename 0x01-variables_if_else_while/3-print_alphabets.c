@@ -21,7 +21,7 @@ int main(void)
 
 	for (ch_lc = 'a'; ch_lc <= 'z'; ch_lc++)
 	{
-		putchar(ch_la);
+		putchar(ch_lc);
 	}
 	for (ch_uc = 'A'; ch_uc <= 'Z'; ch_uc++)
 	{
